@@ -10,7 +10,7 @@ function TodoFeature(props) {
     const todolist = [
         {
             id: 1,
-            title: 'EAT'
+            title: 'EAT12345'
         },
         {
             id: 2,
