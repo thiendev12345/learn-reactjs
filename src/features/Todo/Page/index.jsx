@@ -24,7 +24,7 @@ function TodoFeature(props) {
     return (
         <div>
             <h3>Todo list</h3>
-            <Todolist todolist={todolist}></Todolist>
+            <Todolist todolist1={todolist}></Todolist>
         </div>
     );
 }

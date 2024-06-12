@@ -9,7 +9,7 @@ Todolist.defaultProps = {
     todolist: [],
 }
 
-function Todolist({todolist}) {
+function Todolist({ todolist1 }) {
 
     return (
         <ul>
